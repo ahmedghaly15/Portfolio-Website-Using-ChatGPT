@@ -86,14 +86,9 @@
 
     list-style-type: none;
     text-align: start;
-    /* margin: 0;
-    padding: 0; */
   }
   
   #about li {
-    /* font-size: 25px;
-    margin-bottom: 10px; */
-
     padding: 10px;
     padding-left: 20px;
     font-size: 18px;
@@ -240,12 +235,6 @@
     color: #fff;
     padding: 100px 0;
   }
-  
-/* #contact h2 {
-    font-size: 40px;
-    font-weight: bold;
-    
-} */
 
 .container-contact h2 {
   font-size: 300%;
